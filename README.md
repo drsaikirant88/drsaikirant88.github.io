@@ -1,9 +1,12 @@
 # Welcome to my coding world
 
 Hello! I am Saikiran (Sai) Tharimena, a researcher with 6+ years of experience in numerical and statistical modeling, and machine learning. Having garnered invaluable experience in academic research, I am looking forward to switch careers to focus on leveraging the power of machine learning and deep learning to solve real-world challenges.
-<pre>
-#Deep Learning    #Machine Learning     #Statistical Modeling     #Data Science
-<\pre>
+
+#Deep Learning &emsp; #Machine Learning &emsp; #Statistical Modeling &emsp; #Data Science
+
+<b>Have an exciting opportunity in mind? Reach out to me<b/>
+<br>[Resume](https://github.com/drsaikirant88/drsaikirant88.github.io/blob/main/Tharimena_Saikiran_Resume.pdf)
+
 Follow me:
 <br>[Linkedin](https://www.linkedin.com/in/saikirantharimena/)
 <br>[Google Scholar](https://scholar.google.co.uk/citations?user=HHIWRAkAAAAJ&hl=en)
@@ -20,4 +23,3 @@ Here are a few sample projects on Machine Learning:
 [Unsupervised Learning](https://github.com/drsaikirant88/drsaikirant88.github.io/blob/main/IBM%20Machine%20Learning/unsupervised_learning.ipynb)
 
 [Deep Learning](https://github.com/drsaikirant88/drsaikirant88.github.io/blob/main/IBM%20Machine%20Learning/deeplearning.ipynb)
-
