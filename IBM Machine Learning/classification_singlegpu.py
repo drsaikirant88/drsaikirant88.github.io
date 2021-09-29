@@ -1,3 +1,8 @@
+# Multi GPU Training
+# Author: Saikiran Tharimena
+# 29 September 2021
+# dr.saikirant@gmail.com
+
 # Import libraries
 import os
 import numpy as np
