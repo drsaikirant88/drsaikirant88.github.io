@@ -1,10 +1,7 @@
-'''
-# Training with Multi-GPUs
-CIFAR-10 dataset will be used to train a deep learning model using Multiple GPUs.
-
-## Dataset
-CIFAR-10 dataset is a collection of 60,000 color images of 32 x 32 pixel in 10 different classes. The 10 classes represent airplanes, cars, birds, cats, deer, dogs, frogs, horses, ships, and trucks. The dataset has 6000 images of each class.
-'''
+# Multi GPU Training
+# Author: Saikiran Tharimena
+# 29 September 2021
+# dr.saikirant@gmail.com
 
 #%% Import libraries
 import os
