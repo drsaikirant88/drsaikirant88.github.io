@@ -28,5 +28,5 @@ Here are a few sample projects on Machine Learning:
 
 [Deep Learning](https://github.com/drsaikirant88/drsaikirant88.github.io/blob/main/IBM%20Machine%20Learning/deeplearning.ipynb)
 
-Deep Learning using multiple GPUs and Horovod (https://horovod.ai/), a distributed deep learning framework
+Deep Learning using multiple GPUs and [Horovod](https://horovod.ai/), a distributed deep learning framework
 <br>[Deep Learning - GPUs](https://github.com/drsaikirant88/drsaikirant88.github.io/blob/main/IBM%20Machine%20Learning/classification_multigpu.ipynb)
