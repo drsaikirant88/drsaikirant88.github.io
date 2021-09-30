@@ -20,7 +20,7 @@ from tensorflow.keras.callbacks import Callback, LearningRateScheduler
 from tensorflow.keras.layers import Input, Conv2D, BatchNormalization, Dense, Add, Activation, Dropout, MaxPooling2D, GlobalAveragePooling2D
 
 import horovod.tensorflow.keras as hvd
-from hvd.callbacks import LearningRateWarmupCallback, BroadcastGlobalVariablesCallback, MetricAverageCallback
+from horovod.tensorflow.keras.callbacks import LearningRateWarmupCallback, BroadcastGlobalVariablesCallback, MetricAverageCallback
 
 #%% Initialize Horovod
 hvd.init()
