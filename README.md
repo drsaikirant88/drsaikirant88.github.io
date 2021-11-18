@@ -7,6 +7,8 @@ Hello! I am Saikiran (Sai) Tharimena, a researcher with 6+ years of experience i
 <b>Have an exciting opportunity in mind? Reach out to me<b/>
 <br>[Resume](https://github.com/drsaikirant88/drsaikirant88.github.io/blob/main/Tharimena_Saikiran_Resume.pdf)
 
+![Amazon Web Services & Deeplearning.AI Practical Data Science Specialization](AWS.PNG)
+<br>[Click here to verify credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/GSGETZ3XJ546)
  
 ![IBM Professional Certificate Badge](IBM_Pro_Badge.PNG)
 <br>[Click here to verify credentials](https://www.credly.com/badges/71bfefa6-5ff8-4609-813f-fdbbd9eb3edc?source=linked_in_profile)
